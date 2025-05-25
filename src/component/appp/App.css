@@ -9,7 +9,7 @@ body {
   background-color: #4f4f4f;
   padding: 30px;
   color: #333;
-  background-image: url("../src/img/ci.jpg");
+  background-image: url("../dist/assets/ci.jpg");
   background-position: center;
   background-size: cover;
 }
